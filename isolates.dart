@@ -1,3 +1,10 @@
+/*
+
+Example: https://codingwithjoe.com/dart-fundamentals-isolates/
+Worker process running in its own memory process.
+
+*/
+
 import 'dart:io';
 import 'dart:async';
 import 'dart:isolate';
